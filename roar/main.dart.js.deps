@@ -651,6 +651,7 @@ file:///Users/klo1/projects/zoohack/roar/.dart_tool/flutter_build/41d274a81c1261
 file:///Users/klo1/projects/zoohack/roar/.packages
 file:///Users/klo1/projects/zoohack/roar/lib/authority.dart
 file:///Users/klo1/projects/zoohack/roar/lib/background.dart
+file:///Users/klo1/projects/zoohack/roar/lib/cashout.dart
 file:///Users/klo1/projects/zoohack/roar/lib/confirmation.dart
 file:///Users/klo1/projects/zoohack/roar/lib/dashboard.dart
 file:///Users/klo1/projects/zoohack/roar/lib/footer.dart
@@ -658,13 +659,17 @@ file:///Users/klo1/projects/zoohack/roar/lib/form.dart
 file:///Users/klo1/projects/zoohack/roar/lib/login.dart
 file:///Users/klo1/projects/zoohack/roar/lib/login_ranger.dart
 file:///Users/klo1/projects/zoohack/roar/lib/main.dart
+file:///Users/klo1/projects/zoohack/roar/lib/metrics.dart
 file:///Users/klo1/projects/zoohack/roar/lib/model/incidents_model.dart
+file:///Users/klo1/projects/zoohack/roar/lib/model/species_model.dart
 file:///Users/klo1/projects/zoohack/roar/lib/moreinfo.dart
 file:///Users/klo1/projects/zoohack/roar/lib/report.dart
 file:///Users/klo1/projects/zoohack/roar/lib/services/incidents_service.dart
+file:///Users/klo1/projects/zoohack/roar/lib/services/species_service.dart
 file:///Users/klo1/projects/zoohack/roar/lib/signup.dart
 file:///Users/klo1/projects/zoohack/roar/lib/title.dart
 file:///Users/klo1/projects/zoohack/roar/lib/user.dart
 file:///Users/klo1/projects/zoohack/roar/lib/usertype.dart
 file:///Users/klo1/projects/zoohack/roar/lib/welcome.dart
+file:///Users/klo1/projects/zoohack/roar/lib/widgets/CashList.dart
 file:///Users/klo1/projects/zoohack/roar/lib/widgets/IncidentList.dart
