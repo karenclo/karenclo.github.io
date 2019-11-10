@@ -44516,7 +44516,7 @@ T.yw.prototype={
 $1:function(a){return new N.eY(null)}}
 T.zM.prototype={
 w:function(a){var u=null,t=[N.Z]
-return M.bN(u,T.bl(C.P,H.c([new S.cp(u),new T.J(new V.v(0,70,0,0),new T.Q(C.C,u,u,T.ap(H.c([new U.i6(u)],t),C.n,C.r,C.l),u),u),new T.J(new V.v(0,140,0,0),new T.Q(C.C,u,u,T.ap(H.c([new T.zL(u)],t),C.n,C.r,C.l),u),u),new T.J(new V.v(0,380,0,0),new T.Q(C.C,u,u,T.ap(H.c([new T.NF(u)],t),C.n,C.r,C.l),u),u),new T.J(new V.v(20,0,0,0),T.a0L(H.c([new T.bU(u,15,u,u),new T.J(new V.v(0,470,0,0),new T.Km(u),u)],t),-100),u),new T.J(new V.v(0,650,0,0),new T.Q(C.C,u,u,T.ap(H.c([new T.NM(u)],t),C.n,C.r,C.l),u),u),new T.J(new V.v(0,220,0,0),new T.Q(C.C,u,u,T.ap(H.c([L.y("$12",u,u,u,A.z(u,u,u,u,u,u,u,u,u,u,u,65,u,u,u,u,!0,u,u,u,u,u,u),u)],t),C.n,C.r,C.l),u),u)],t),C.K,u,u))}}
+return M.bN(u,T.bl(C.P,H.c([new S.cp(u),new T.J(new V.v(0,70,0,0),new T.Q(C.C,u,u,T.ap(H.c([new U.i6(u)],t),C.n,C.r,C.l),u),u),new T.J(new V.v(0,140,0,0),new T.Q(C.C,u,u,T.ap(H.c([new T.zL(u)],t),C.n,C.r,C.l),u),u),new T.J(new V.v(0,380,0,0),new T.Q(C.C,u,u,T.ap(H.c([new T.NF(u)],t),C.n,C.r,C.l),u),u),new T.J(new V.v(40,0,0,0),T.a0L(H.c([new T.bU(u,15,u,u),new T.J(new V.v(0,470,0,0),new T.Km(u),u)],t),-100),u),new T.J(new V.v(0,700,0,0),new T.Q(C.C,u,u,T.ap(H.c([new T.NM(u)],t),C.n,C.r,C.l),u),u),new T.J(new V.v(0,220,0,0),new T.Q(C.C,u,u,T.ap(H.c([L.y("$17",u,u,u,A.z(u,u,u,u,u,u,u,u,u,u,u,65,u,u,u,u,!0,u,u,u,u,u,u),u)],t),C.n,C.r,C.l),u),u)],t),C.K,u,u))}}
 Z.Nl.prototype={
 w:function(a){var u=null
 return M.N(u,T.ap(H.c([L.y(C.e.J("Thank you for your report.\n\nYour report ID is ",$.a3n())+".\nYou have earned $"+J.c7($.Zz())+".\n\nTo claim your reward link your bank account.",u,u,u,A.z(u,u,C.i,u,u,u,u,u,u,u,u,u,C.T,u,u,u,!0,u,u,u,u,u,u),C.B)],[N.Z]),C.n,C.r,C.l),u,u,u,u,u,u,400)}}
